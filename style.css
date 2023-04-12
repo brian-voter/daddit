@@ -1,0 +1,24 @@
+h1 {
+    margin: auto;
+    width: fit-content;
+    font-size: 4em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.jokeText {
+    display: inline-block;
+    font-size: 2em;
+    margin: 3px 10px;
+}
+
+.scoreLabel {
+    display: inline-block;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 12px;
+}
+
+.voteButton {
+    margin: 5px;
+    font-size: 2em;
+}
